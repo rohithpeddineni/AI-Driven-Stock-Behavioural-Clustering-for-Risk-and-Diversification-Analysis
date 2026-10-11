@@ -1,0 +1,16 @@
+category,model_or_strategy,clusters_or_windows,cluster_sizes_or_holdings,annualised_return_mean,annualised_volatility_mean,max_drawdown_mean,sharpe_mean,correlation_mean,diversification_ratio_mean,silhouette,davies_bouldin,mean_ari,interpretation
+clustering,canonical_pca_k2,2,69|6,,,,,,,0.4585298653,1.0286401260,1.0000000000,Strong separation but highly imbalanced
+clustering,refined_pca_k6,6,13|6|10|15|14|17,,,,,,,0.2417225983,1.1465041498,0.8778141412,Best academic six-cluster balance
+clustering,standard_fingerprint_k6,6,12|17|17|4|2|23,,,,,,,0.1645222499,1.5351471851,0.8432083132,Highest mean return among six-cluster alternatives
+clustering,robust_fingerprint_k6,6,21|2|3|29|19|1,,,,,,,0.1791794805,1.1738984220,0.7514044114,Singleton and highly uneven clusters
+clustering,ward_k6,6,19|5|2|19|19|11,,,,,,,0.1416469530,1.4984507889,1.0000000000,Stable but weak separation
+clustering,gmm_k6,6,15|21|1|21|5|12,,,,,,,0.1121562349,1.6148458915,0.6771525126,Weakest separation and a singleton
+portfolio,canonical_pca_k2,3 rolling windows,6 holdings,0.0995203206,0.1654244772,0.1118031025,0.6130378633,0.2398352577,1.6371373528,,,,Reference model
+portfolio,refined_pca_k6,3 rolling windows,6 holdings,0.1237463661,0.1873075824,0.1555633165,0.5951674286,0.2734475567,1.5911742705,,,,Academic six-cluster candidate
+portfolio,standard_fingerprint_k6,3 rolling windows,6 holdings,0.1922341062,0.1795825430,0.1293493428,0.9799397375,0.2693204469,1.5687081601,,,,Strongest reported six-cluster return/risk compromise
+portfolio,robust_fingerprint_k6,3 rolling windows,6 holdings,0.0497965916,0.2027478930,0.1693730081,0.3391417569,0.3443684297,1.4536670122,,,,Poorer return and diversification
+portfolio,ward_k6,3 rolling windows,6 holdings,0.0530542704,0.2014246115,0.1794941996,0.3137546237,0.3419488496,1.4527555005,,,,Poor out-of-sample trade-off
+portfolio,gmm_k6,3 rolling windows,6 holdings,0.1716980033,0.2000912103,0.1557610629,0.8629857980,0.2946467177,1.5379522115,,,,Competitive return but higher volatility
+portfolio,equal_weight_baseline_6,3 rolling windows,6 holdings,0.1935226565,0.2338951424,0.1540452467,0.8627567608,0.4165502569,1.3637637663,,,,Highest simple baseline return and risk
+portfolio,equal_weight_diversified_baseline_6,3 rolling windows,6 holdings,0.1122601942,0.1757080373,0.1275641466,0.6449544912,0.2811066321,1.5618085078,,,,Clustering-independent diversified comparator
+

@@ -1,0 +1,465 @@
+{
+  "generated_at": "2026-08-16T19:40:05+00:00",
+  "start": "2022-01-01",
+  "end": "2026-08-17",
+  "benchmark": "^NSEI",
+  "symbol_count": 76,
+  "symbols": {
+    "ABB.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "6cfb415b81b50f62"
+    },
+    "ADANIENT.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "77e8b4982e7dc9b5"
+    },
+    "ADANIPORTS.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "bfe041f3989445e7"
+    },
+    "AMBUJACEM.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "f0c4f9654f946a9e"
+    },
+    "APOLLOHOSP.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "b1337edca77e7910"
+    },
+    "ASHOKLEY.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "7b7dfe987758a00f"
+    },
+    "ASIANPAINT.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "31a47d6fec1747ca"
+    },
+    "AUROPHARMA.NS": {
+      "rows": 1143,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "abb97669ad829372"
+    },
+    "AXISBANK.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "70f5c9463d20130e"
+    },
+    "BAJAJ-AUTO.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "bbb399ab1c544497"
+    },
+    "BAJAJFINSV.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "c28ad28938fe335e"
+    },
+    "BAJFINANCE.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "281ac5d707abbd81"
+    },
+    "BANKBARODA.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "3246df7714b7bb52"
+    },
+    "BHARTIARTL.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "c4af9e95a21d6ecb"
+    },
+    "BPCL.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "17d63e0d58285ead"
+    },
+    "BRITANNIA.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "9a4afe7e3a09ec90"
+    },
+    "CANBK.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "159c77bc8ecaa8aa"
+    },
+    "CIPLA.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "72508c3287a3201d"
+    },
+    "COALINDIA.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "eb102900cf486df3"
+    },
+    "COLPAL.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "083a9f457ac8ead9"
+    },
+    "DABUR.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "5c26976fbbb1ecc9"
+    },
+    "DIVISLAB.NS": {
+      "rows": 1143,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "bfc8410c7e009624"
+    },
+    "DLF.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "2c5574dc808a9e78"
+    },
+    "DMART.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "35b32977f1a0a38d"
+    },
+    "DRREDDY.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "00d66c74a857867a"
+    },
+    "EICHERMOT.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "0fd7770e7458bba5"
+    },
+    "ETERNAL.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "44f3cdb58184e7d6"
+    },
+    "GAIL.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "8275e1d441c2e696"
+    },
+    "GODREJCP.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "e758c7e64703dc56"
+    },
+    "GRASIM.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "51d321a9e82ac588"
+    },
+    "HAVELLS.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "21e63e324c89d705"
+    },
+    "HCLTECH.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "0b1ac6625177d152"
+    },
+    "HDFCBANK.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "52f4f995f426dec8"
+    },
+    "HDFCLIFE.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "d5e74efa2cb2f5cc"
+    },
+    "HEROMOTOCO.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "41ec5cf0e34b36bd"
+    },
+    "HINDALCO.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "a2e6239cc0e421ab"
+    },
+    "HINDUNILVR.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "fbced5c68b1797de"
+    },
+    "ICICIBANK.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "a61dc518d9895420"
+    },
+    "INDUSINDBK.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "12d9a5d30d032d35"
+    },
+    "INFY.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "66c38f686f01a204"
+    },
+    "IOC.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "81541a4b8f4888b8"
+    },
+    "ITC.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "fc225204b63ee0e2"
+    },
+    "JSWSTEEL.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "d7465d471584dd83"
+    },
+    "JUBLFOOD.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "2899f32172addc09"
+    },
+    "KOTAKBANK.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "780c47c489d9c34a"
+    },
+    "LT.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "97100bee4e02c77e"
+    },
+    "LUPIN.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "75620f6fa245656f"
+    },
+    "M&M.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "a3a549cddf228273"
+    },
+    "MARICO.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "a7e437f6128677d7"
+    },
+    "MARUTI.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "3b49c7c3e0e7e391"
+    },
+    "MOTHERSON.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "ea3075ac1b76ac6f"
+    },
+    "MPHASIS.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "be016c1f26892a45"
+    },
+    "NESTLEIND.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "b3b256c8e93119b6"
+    },
+    "NTPC.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "0344f3c930c7eeb0"
+    },
+    "ONGC.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "a6eccaf735d4bea3"
+    },
+    "PAGEIND.NS": {
+      "rows": 1142,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "e3646a2d0c9b27e3"
+    },
+    "PERSISTENT.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "c9e63e586cd9691a"
+    },
+    "PIDILITIND.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "d19e75fac6da12fe"
+    },
+    "PNB.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "364f779b94ecd231"
+    },
+    "POWERGRID.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "8b213b815d2b1162"
+    },
+    "RELIANCE.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "7917c1774ed72c9f"
+    },
+    "SBILIFE.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "b5bf386a23eb77d1"
+    },
+    "SBIN.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "ba2d8796fa8ad8df"
+    },
+    "SHRIRAMFIN.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "8cd1b09fe9b7375d"
+    },
+    "SIEMENS.NS": {
+      "rows": 1143,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "9130023bc7363521"
+    },
+    "SUNPHARMA.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "a4475a8d876a8550"
+    },
+    "TATACONSUM.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "2e05bfdb713afbae"
+    },
+    "TATASTEEL.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "1eb5e6feb1f2f302"
+    },
+    "TCS.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "25653fdc15588c2d"
+    },
+    "TECHM.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "0b6332b178f58d07"
+    },
+    "TITAN.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "371964d037540db3"
+    },
+    "TRENT.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "57d9082056dfd928"
+    },
+    "TVSMOTOR.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "dfcc933495b2fbb7"
+    },
+    "ULTRACEMCO.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "94b70f1eb7bc239f"
+    },
+    "WIPRO.NS": {
+      "rows": 1144,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "cd3c90b65f589481"
+    },
+    "^NSEI": {
+      "rows": 1140,
+      "first_date": "2022-01-03",
+      "last_date": "2026-08-14",
+      "sha256": "81c3226e7e90a769"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+representation,requested_variance,components,explained_variance
+pca_70,0.7,4,0.7606766021881615
+pca_80,0.8,5,0.8090778425166584
+pca_88,0.88,7,0.8883918225716287
+pca_90,0.9,8,0.9220469938909088
+pca_95,0.95,9,0.9546880122903607
+standard_full,1.0,15,1.0
+robust_full,1.0,15,1.0

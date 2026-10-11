@@ -1,0 +1,6 @@
+query_stock,similar_stock,similarity_score,distance,rank,query_cluster,similar_cluster,same_cluster,query_sector,similar_sector
+ABB,SIEMENS,0.8474854227414093,0.15251457725859074,1,1,1,True,Capital Goods,Capital Goods
+ABB,PERSISTENT,0.7439283559544685,0.2560716440455315,2,1,1,True,Capital Goods,IT
+ABB,DIVISLAB,0.7438170374322522,0.25618296256774775,3,1,1,True,Capital Goods,Pharma & Health
+ABB,HEROMOTOCO,0.7141780570115848,0.28582194298841523,4,1,1,True,Capital Goods,Auto
+ABB,TVSMOTOR,0.6834419732340232,0.3165580267659768,5,1,1,True,Capital Goods,Auto
